@@ -33,7 +33,7 @@ Our UI is crafted to be visually appealing yet straightforward, encouraging user
 
 ## Interactive Prototype
 Visit our interactive Figma prototype to experience the EcoSwift journey firsthand:
-- [https://www.figma.com/file/fnVOuZUfhqHK1vFIla6ARo/Untitled?type=design&node-id=0-1&mode=design&t=2fwuU5CvXWAIs3Ye-0](#)
+-[https://www.figma.com/file/fnVOuZUfhqHK1vFIla6ARo/Untitled?type=design&node-id=0%3A1&mode=design&t=2fwuU5CvXWAIs3Ye-1]
 
 ### Design Features
 - **Community Connection**: Features that encourage user interaction and foster a sense of community among riders.
