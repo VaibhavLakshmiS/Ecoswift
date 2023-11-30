@@ -7,7 +7,17 @@ EcoSwift was conceptualized and designed during a 48-hour weekend at the Evolve 
 ## About the Hackathon Experience
 The Evolve Hackathon provided us with a platform to challenge conventional thinking and address urgent environmental issues through technology. Over the course of the weekend, we engaged in rapid prototyping, iterative design, and collaborative problem-solving, which culminated in the development of our Figma prototype for EcoSwift.
 The constraints of time and resources during the event led to a focus on innovation, adaptability, and user-centered design, which are now the core tenets of the EcoSwift platform.
+## Problem statement:
+How can we revolutionize mobility to create a sustainable, efficient, and inclusive transportation ecosystem that reduces environmental harm, improves accessibility, and enhances the overall quality of life for individuals and communities?
 
+## Our Solution: EcoSwift
+
+EcoSwift is not just a platform; it's a transformative approach to community and sustainability. This pioneering solution offers:
+
+- **Community-Owned Electric Car Pools**: Redefining carpooling by enabling communities to own and operate their electric vehicle fleets.
+- **Connection Beyond Destinations**: Unlike traditional carpooling services, EcoSwift connects users who share similar interests or work for the same organization, fostering a sense of community.
+- **Sustainability at Its Core**: With an EV-only policy, EcoSwift is committed to reducing emissions and promoting cleaner air, contributing to the fight against climate change.
+- **Scalability and Global Impact**: Designed to be replicated in urban centers globally, EcoSwift aligns with the increasing emphasis on environmental consciousness and the rising demand for Electric Vehicles.
 
 
 
@@ -23,7 +33,7 @@ Our UI is crafted to be visually appealing yet straightforward, encouraging user
 
 ## Interactive Prototype
 Visit our interactive Figma prototype to experience the EcoSwift journey firsthand:
-- [Figma Prototype Link](#)
+- [https://www.figma.com/file/fnVOuZUfhqHK1vFIla6ARo/Untitled?type=design&node-id=0-1&mode=design&t=2fwuU5CvXWAIs3Ye-0](#)
 
 ### Design Features
 - **Community Connection**: Features that encourage user interaction and foster a sense of community among riders.
@@ -31,10 +41,14 @@ Visit our interactive Figma prototype to experience the EcoSwift journey firstha
 - **Scalability**: A layout that can easily adapt to various regions and user groups, supporting our vision for global expansion.
 
 ### Visual Previews
-Here are some previews of our design. For a full walkthrough, please refer to the interactive prototype linked above.
+Here are some previews of our design. For a full walkthrough, please refer to the pdf pasted in the repository above.
 
-![Landing Page](path/to/landing_page_screenshot.png)
-*The landing page introduces EcoSwift with a focus on community and sustainability.*
+## Achievements and Impact
 
-![Ride Selection](path/to/ride_selection_screenshot.png)
-*Selecting a ride is simple and intuitive, emphasizing ease of use and accessibility.*
+- **Top 10 Finish at a Prestigious Hackathon**: Our concept was recognized among the top solutions in a field of 45 teams, signaling its innovative potential.
+- **Reduction in Carbon Footprint**: Projected to significantly lower the carbon emissions associated with daily commutes.
+- **Increased Accessibility**: By lowering costs and barriers, EcoSwift makes eco-friendly transportation accessible to a broader demographic.
+
+## Future Aspirations
+
+While we are proud of our current achievements, our vision for EcoSwift extends far beyond. We aim to expand our platform's reach, introduce advanced features like AI-based route optimization, and integrate with smart city infrastructures to further reduce environmental impact and improve urban mobility.
