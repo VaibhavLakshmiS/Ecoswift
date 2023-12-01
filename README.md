@@ -42,9 +42,10 @@ Visit our interactive Figma prototype to experience the EcoSwift journey firstha
 
 ### Visual Previews
 Here are some previews of our design. For a full walkthrough, please refer to the pdf pasted in the repository above.
-<img width="98" alt="image" src="https://github.com/VaibhavLakshmiS/Ecoswift/assets/114008903/4c443610-c9d0-4125-823f-b3ae9d524971">
-<img width="96" alt="image" src="https://github.com/VaibhavLakshmiS/Ecoswift/assets/114008903/2c625153-08bf-4ebe-9422-f0dba92afbec">
-<img width="99" alt="image" src="https://github.com/VaibhavLakshmiS/Ecoswift/assets/114008903/c001e56e-3efe-47c4-95b7-335c98b71f6a">
+## Images
+<img width="181" alt="image" src="https://github.com/VaibhavLakshmiS/Ecoswift/assets/114008903/4c443610-c9d0-4125-823f-b3ae9d524971">
+<img width="181" alt="image" src="https://github.com/VaibhavLakshmiS/Ecoswift/assets/114008903/2c625153-08bf-4ebe-9422-f0dba92afbec">
+<img width="181" alt="image" src="https://github.com/VaibhavLakshmiS/Ecoswift/assets/114008903/c001e56e-3efe-47c4-95b7-335c98b71f6a">
 <img width="181" alt="image" src="https://github.com/VaibhavLakshmiS/Ecoswift/assets/114008903/8f73d366-ed28-412d-8a64-758086dcf569">
 
 
