@@ -2,7 +2,7 @@
 
 ## Introduction
 
-EcoSwift was conceptualized and designed during a 48-hour weekend at the Evolve Hackathon hosted by the University of Toronto Scarborough (UTSC). Our team, comprising five dedicated members, collaborated intensely to turn a bold idea into a tangible solution. This intense period of innovation not only led to the creation of EcoSwift but also earned us a spot in the top 10 out of 50 teams.
+EcoSwift was conceptualized and designed during a 48-hour weekend at the Evolve Hackathon hosted by the University of Toronto Scarborough (UTSC). Our team, comprising five dedicated members, collaborated to turn a bold idea into a tangible solution. This intense period of innovation not only led to the creation of EcoSwift but also earned us a spot in the top 10 out of 50 teams.
 
 ## About the Hackathon Experience
 The Evolve Hackathon provided us with a platform to challenge conventional thinking and address urgent environmental issues through technology. Over the course of the weekend, we engaged in rapid prototyping, iterative design, and collaborative problem-solving, which culminated in the development of our Figma prototype for EcoSwift.
