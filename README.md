@@ -1,4 +1,6 @@
 # EcoSwift: A Sustainable Commute Initiative
+![ecoswift](https://github.com/VaibhavLakshmiS/Ecoswift/assets/114008903/f1d3fb1e-a705-4626-9e8d-c8f85e080154)
+
 
 ## Introduction
 
